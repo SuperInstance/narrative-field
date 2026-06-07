@@ -1,0 +1,9 @@
+[package]
+name = "narrative-field"
+version = "0.1.0"
+description = "Narrative structure modeled as vector field operations with plot points, arcs, tension, resolution, and narrator perspective"
+repository = "https://github.com/SuperInstance/narrative-field"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
